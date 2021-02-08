@@ -1,9 +1,9 @@
-[![Author](https://img.shields.io/badge/author-marioandre01-37C580?style=flat-square)](https://github.com/marioandre01)
-[![Languages](https://img.shields.io/github/languages/count/marioandre01/30DiasCss?color=%2337C580&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/marioandre01/30DiasCss?color=37C580&style=flat-square)](https://github.com/marioandre01/30DiasCss/stargazers)
-[![Forks](https://img.shields.io/github/forks/marioandre01/30DiasCss?color=%2337C580&style=flat-square)](https://github.com/marioandre01/30DiasCss/network/members)
-[![Contributors](https://img.shields.io/github/contributors/marioandre01/30DiasCss?color=37C580&style=flat-square)](https://github.com/marioandre01/30DiasCss/graphs/contributors)
-[![Licence](https://img.shields.io/github/license/marioandre01/30DiasCss?color=%2337C580&style=flat-square)](https://github.com/marioandre01/30DiasCss/blob/master/LICENCE.md)
+[![Author](https://img.shields.io/badge/author-marioandre01-ff4c15?style=flat-square)](https://github.com/marioandre01)
+[![Languages](https://img.shields.io/github/languages/count/marioandre01/30DiasCss?color=%230076be&style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marioandre01/30DiasCss?color=ff4c15&style=flat-square)](https://github.com/marioandre01/30DiasCss/stargazers)
+[![Forks](https://img.shields.io/github/forks/marioandre01/30DiasCss?color=%230076be&style=flat-square)](https://github.com/marioandre01/30DiasCss/network/members)
+[![Contributors](https://img.shields.io/github/contributors/marioandre01/30DiasCss?color=ff4c15&style=flat-square)](https://github.com/marioandre01/30DiasCss/graphs/contributors)
+[![Licence](https://img.shields.io/github/license/marioandre01/30DiasCss?color=%230076be&style=flat-square)](https://github.com/marioandre01/30DiasCss/blob/master/LICENCE.md)
 
 
 <h1 align="center">
@@ -21,7 +21,7 @@
 
 ## 💻 Projeto
 
-Esse projeto foi desenvolvido com o objetivo de praticar as técnicas de usar CSS
+Esse projeto foi desenvolvido com o objetivo de praticar as técnicas de CSS
 
 ## 📋 Tecnologias
 
@@ -52,6 +52,10 @@ $ git clone https://github.com/marioandre01/30DiasCss.git
 
 # entre na pasta do projeto
 $ cd 30DiasCss
+
+# entre em alguma das pstas diaXX
+$ cd dia01 # (por exemplo)
+
 ```
 Abra o arquivo index.html
 ## :gear: Contribuição
